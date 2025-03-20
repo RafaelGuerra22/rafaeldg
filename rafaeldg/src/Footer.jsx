@@ -40,8 +40,8 @@ function Footer() {
 
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
         © 2020 Copyright:
-        <a className='text-white' href='https://mdbootstrap.com/'>
-          MDBootstrap.com
+        <a className='text-white' href='https://rafeldg.com/'>
+          rafeldg.com
         </a>
       </div>
     </MDBFooter>
