@@ -9,8 +9,9 @@ function App() {
       <h1>Rafael Guerra</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          Clica aqui!!!!!!!! {count}
-        </button>
+          Clica aqui!!!!!!!!        </button>
+          <p>{count}</p>
+
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
